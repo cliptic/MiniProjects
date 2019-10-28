@@ -6,6 +6,7 @@ Originally created to see the time left until my AI course starts.
 from datetime import datetime, date, time, timedelta
 
 dt = datetime.now()  
+# define your end point in time: (year, month, day, hour, minute, second)
 start_date = datetime(2019, 11, 9, 14, 0, 0)
 
 # print((dt - start_date).days())
