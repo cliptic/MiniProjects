@@ -4,3 +4,4 @@
 
 #### [Rectangle count](https://github.com/cliptic/MiniProjects/blob/master/Rectangle_count.py)
 * Counts all possible rectangles with vertical and horizontal lines from an input of coordinated points as possible angles.
+![alt text](https://github.com/cliptic/MiniProjects/blob/master/Figure_1.png)
